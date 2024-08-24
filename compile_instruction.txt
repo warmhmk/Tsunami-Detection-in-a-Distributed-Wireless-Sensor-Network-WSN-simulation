@@ -1,0 +1,5 @@
+compiling instruction:
+mpicc main.c base.c altimeter.c tsunameter.c utilities.c -o main.o -lm
+
+to run (N: number of process (number of node + 1), y & x: grid size):
+mpirun -oversubscribe -np N main.o y x

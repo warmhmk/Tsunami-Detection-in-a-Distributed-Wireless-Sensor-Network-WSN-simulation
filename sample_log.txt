@@ -1,0 +1,1783 @@
+Iteration: 1
+Logged Time: Sun Oct 17 07:36:19 2021
+Alert reported time: Sun Oct 17 07:36:19 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6110.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6144.000000
+Right : 8      | 6033.000000
+Top : 4        | 6190.000000
+Bottom : 10    | 6221.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:19 2021
+Satellite altimeter reporting height(m): 6066.614258
+Satellite altimeter reporting coordinates(m): (2,2)
+
+================================================================================
+
+Iteration: 2
+Logged Time: Sun Oct 17 07:36:21 2021
+Alert reported time: Sun Oct 17 07:36:19 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6119.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6190.000000
+Right : -2     | -1.000000
+Top : 2        | 6119.000000
+Bottom : 8     | 6033.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:21 2021
+Satellite altimeter reporting height(m): 6424.350098
+Satellite altimeter reporting coordinates(m): (0,1)
+
+================================================================================
+
+Iteration: 2
+Logged Time: Sun Oct 17 07:36:21 2021
+Alert reported time: Sun Oct 17 07:36:21 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+0              | 6136.000000 | (0,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 1      | 6084.000000
+Top : -2       | -1.000000
+Bottom : 3     | 6133.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:21 2021
+Satellite altimeter reporting height(m): 6424.350098
+Satellite altimeter reporting coordinates(m): (0,1)
+
+================================================================================
+
+Iteration: 3
+Logged Time: Sun Oct 17 07:36:23 2021
+Alert reported time: Sun Oct 17 07:36:21 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6234.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6068.000000
+Right : 11     | 6273.000000
+Top : 7        | 6270.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:23 2021
+Satellite altimeter reporting height(m): 6033.122070
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 3
+Logged Time: Sun Oct 17 07:36:23 2021
+Alert reported time: Sun Oct 17 07:36:21 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6232.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6270.000000
+Right : -2     | -1.000000
+Top : 5        | 6222.000000
+Bottom : 11    | 6273.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:23 2021
+Satellite altimeter reporting height(m): 6033.122070
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 3
+Logged Time: Sun Oct 17 07:36:23 2021
+Alert reported time: Sun Oct 17 07:36:21 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+9              | 6221.000000 | (3,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 10     | 6221.000000
+Top : 6        | 6144.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:23 2021
+Satellite altimeter reporting height(m): 6033.122070
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 3
+Logged Time: Sun Oct 17 07:36:23 2021
+Alert reported time: Sun Oct 17 07:36:21 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6035.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6054.000000
+Right : 8      | 6010.000000
+Top : 4        | 6215.000000
+Bottom : 10    | 6308.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:23 2021
+Satellite altimeter reporting height(m): 6033.122070
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 3
+Logged Time: Sun Oct 17 07:36:23 2021
+Alert reported time: Sun Oct 17 07:36:23 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6207.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6110.000000
+Right : -2     | -1.000000
+Top : 5        | 6119.000000
+Bottom : 11    | 6197.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:23 2021
+Satellite altimeter reporting height(m): 6033.122070
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 4
+Logged Time: Sun Oct 17 07:36:25 2021
+Alert reported time: Sun Oct 17 07:36:23 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6135.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6141.000000
+Right : 11     | 6197.000000
+Top : 7        | 6110.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 4
+Logged Time: Sun Oct 17 07:36:25 2021
+Alert reported time: Sun Oct 17 07:36:23 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6072.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6136.000000
+Right : 2      | 6219.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6116.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 4
+Logged Time: Sun Oct 17 07:36:25 2021
+Alert reported time: Sun Oct 17 07:36:23 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6135.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6056.000000
+Right : 8      | 6004.000000
+Top : 4        | 6116.000000
+Bottom : 10    | 6194.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 4
+Logged Time: Sun Oct 17 07:36:25 2021
+Alert reported time: Sun Oct 17 07:36:25 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+4              | 6159.000000 | (1,1)
+
+Adjacent Nodes | Height(m) 
+Left : 3       | 6104.000000
+Right : 5      | 6119.000000
+Top : 1        | 6006.000000
+Bottom : 7     | 6110.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 5
+Logged Time: Sun Oct 17 07:36:27 2021
+Alert reported time: Sun Oct 17 07:36:25 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+2              | 6121.000000 | (0,2)
+
+Adjacent Nodes | Height(m) 
+Left : 1       | 6058.000000
+Right : -2     | -1.000000
+Top : -2       | -1.000000
+Bottom : 5     | 6073.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 5
+Logged Time: Sun Oct 17 07:36:27 2021
+Alert reported time: Sun Oct 17 07:36:25 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6177.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6136.000000
+Right : 2      | 6256.000000
+Top : -2       | -1.000000
+Bottom : 4     | 5967.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 5
+Logged Time: Sun Oct 17 07:36:27 2021
+Alert reported time: Sun Oct 17 07:36:25 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6308.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 5970.000000
+Right : 8      | 6232.000000
+Top : 4        | 5967.000000
+Bottom : 10    | 6234.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 5
+Logged Time: Sun Oct 17 07:36:27 2021
+Alert reported time: Sun Oct 17 07:36:27 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6101.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6079.000000
+Right : 11     | 6008.000000
+Top : 7        | 6135.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 6
+Logged Time: Sun Oct 17 07:36:29 2021
+Alert reported time: Sun Oct 17 07:36:27 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6179.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 5911.000000
+Right : 8      | 6207.000000
+Top : 4        | 6007.000000
+Bottom : 10    | 6135.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 6
+Logged Time: Sun Oct 17 07:36:29 2021
+Alert reported time: Sun Oct 17 07:36:29 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6235.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6179.000000
+Right : 11     | 6034.000000
+Top : 7        | 6308.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 7
+Logged Time: Sun Oct 17 07:36:31 2021
+Alert reported time: Sun Oct 17 07:36:29 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6184.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 5831.000000
+Right : 8      | 6410.000000
+Top : 4        | 6159.000000
+Bottom : 10    | 6265.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 7
+Logged Time: Sun Oct 17 07:36:31 2021
+Alert reported time: Sun Oct 17 07:36:31 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6206.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6155.000000
+Right : 11     | 5957.000000
+Top : 7        | 6179.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 8
+Logged Time: Sun Oct 17 07:36:35 2021
+Alert reported time: Sun Oct 17 07:36:31 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+6              | 6202.000000 | (2,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 7      | 6110.000000
+Top : 3        | 6104.000000
+Bottom : 9     | 6141.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 8
+Logged Time: Sun Oct 17 07:36:35 2021
+Alert reported time: Sun Oct 17 07:36:31 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6237.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6298.000000
+Right : -2     | -1.000000
+Top : 2        | 6089.000000
+Bottom : 8     | 6300.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 8
+Logged Time: Sun Oct 17 07:36:35 2021
+Alert reported time: Sun Oct 17 07:36:35 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6221.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6149.000000
+Right : 11     | 6156.000000
+Top : 7        | 6034.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 9
+Logged Time: Sun Oct 17 07:36:37 2021
+Alert reported time: Sun Oct 17 07:36:35 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6056.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6133.000000
+Right : 2      | 6121.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6159.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 9
+Logged Time: Sun Oct 17 07:36:37 2021
+Alert reported time: Sun Oct 17 07:36:35 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6162.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6153.000000
+Right : -2     | -1.000000
+Top : 2        | 5989.000000
+Bottom : 8     | 6066.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 9
+Logged Time: Sun Oct 17 07:36:37 2021
+Alert reported time: Sun Oct 17 07:36:37 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6030.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6010.000000
+Right : 11     | 6311.000000
+Top : 7        | 6024.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 10
+Logged Time: Sun Oct 17 07:36:39 2021
+Alert reported time: Sun Oct 17 07:36:37 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6056.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6202.000000
+Right : 8      | 6066.000000
+Top : 4        | 6153.000000
+Bottom : 10    | 6206.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 10
+Logged Time: Sun Oct 17 07:36:39 2021
+Alert reported time: Sun Oct 17 07:36:37 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6089.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6034.000000
+Right : -2     | -1.000000
+Top : 5        | 6237.000000
+Bottom : 11    | 6156.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 10
+Logged Time: Sun Oct 17 07:36:39 2021
+Alert reported time: Sun Oct 17 07:36:37 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+11             | 6146.000000 | (3,2)
+
+Adjacent Nodes | Height(m) 
+Left : 10      | 6206.000000
+Right : -2     | -1.000000
+Top : 8        | 6066.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 10
+Logged Time: Sun Oct 17 07:36:39 2021
+Alert reported time: Sun Oct 17 07:36:37 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6207.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6129.000000
+Right : 2      | 6089.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6298.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 10
+Logged Time: Sun Oct 17 07:36:39 2021
+Alert reported time: Sun Oct 17 07:36:39 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6146.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6136.000000
+Right : 11     | 6109.000000
+Top : 7        | 5886.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:25 2021
+Satellite altimeter reporting height(m): 6392.743652
+Satellite altimeter reporting coordinates(m): (0,0)
+
+================================================================================
+
+Iteration: 11
+Logged Time: Sun Oct 17 07:36:41 2021
+Alert reported time: Sun Oct 17 07:36:39 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6040.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6116.000000
+Top : 0        | 6136.000000
+Bottom : 6     | 6056.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 11
+Logged Time: Sun Oct 17 07:36:41 2021
+Alert reported time: Sun Oct 17 07:36:39 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6113.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6235.000000
+Right : 8      | 6062.000000
+Top : 4        | 6025.000000
+Bottom : 10    | 6273.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 11
+Logged Time: Sun Oct 17 07:36:41 2021
+Alert reported time: Sun Oct 17 07:36:39 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6345.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6285.000000
+Right : 2      | 6035.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6293.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 11
+Logged Time: Sun Oct 17 07:36:41 2021
+Alert reported time: Sun Oct 17 07:36:41 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6018.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 5956.000000
+Right : 11     | 6146.000000
+Top : 7        | 6056.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 12
+Logged Time: Sun Oct 17 07:36:43 2021
+Alert reported time: Sun Oct 17 07:36:41 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+2              | 6086.000000 | (0,2)
+
+Adjacent Nodes | Height(m) 
+Left : 1       | 6056.000000
+Right : -2     | -1.000000
+Top : -2       | -1.000000
+Bottom : 5     | 6162.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 12
+Logged Time: Sun Oct 17 07:36:43 2021
+Alert reported time: Sun Oct 17 07:36:41 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6039.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 5967.000000
+Top : 0        | 6136.000000
+Bottom : 6     | 5970.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 12
+Logged Time: Sun Oct 17 07:36:43 2021
+Alert reported time: Sun Oct 17 07:36:41 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6010.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6024.000000
+Right : -2     | -1.000000
+Top : 5        | 6105.000000
+Bottom : 11    | 6311.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 12
+Logged Time: Sun Oct 17 07:36:43 2021
+Alert reported time: Sun Oct 17 07:36:41 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6281.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6207.000000
+Right : 8      | 5956.000000
+Top : 4        | 5943.000000
+Bottom : 10    | 6221.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 12
+Logged Time: Sun Oct 17 07:36:43 2021
+Alert reported time: Sun Oct 17 07:36:41 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6189.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6125.000000
+Right : 2      | 5989.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6153.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 12
+Logged Time: Sun Oct 17 07:36:43 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+0              | 6033.000000 | (0,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 1      | 6056.000000
+Top : -2       | -1.000000
+Bottom : 3     | 6030.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6115.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6031.000000
+Right : 11     | 6159.000000
+Top : 7        | 6113.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+2              | 6141.000000 | (0,2)
+
+Adjacent Nodes | Height(m) 
+Left : 1       | 6207.000000
+Right : -2     | -1.000000
+Top : -2       | -1.000000
+Bottom : 5     | 6181.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+11             | 6071.000000 | (3,2)
+
+Adjacent Nodes | Height(m) 
+Left : 10      | 6030.000000
+Right : -2     | -1.000000
+Top : 8        | 6089.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6115.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6123.000000
+Right : 8      | 6089.000000
+Top : 4        | 6024.000000
+Bottom : 10    | 6030.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6108.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6172.000000
+Right : 2      | 6107.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6025.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:43 2021
+Match Type: True
+
+Reporting Node | Height(m)   | Coord
+5              | 6099.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6155.000000
+Right : -2     | -1.000000
+Top : 2        | 6027.000000
+Bottom : 8     | 5993.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:43 2021
+Satellite altimeter reporting height(m): 6115.984863
+Satellite altimeter reporting coordinates(m): (1,2)
+
+================================================================================
+
+Iteration: 13
+Logged Time: Sun Oct 17 07:36:45 2021
+Alert reported time: Sun Oct 17 07:36:45 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+4              | 6210.000000 | (1,1)
+
+Adjacent Nodes | Height(m) 
+Left : 3       | 6015.000000
+Right : 5      | 6181.000000
+Top : 1        | 6207.000000
+Bottom : 7     | 6056.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 14
+Logged Time: Sun Oct 17 07:36:47 2021
+Alert reported time: Sun Oct 17 07:36:45 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6162.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6324.000000
+Right : 8      | 5993.000000
+Top : 4        | 6155.000000
+Bottom : 10    | 6146.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 14
+Logged Time: Sun Oct 17 07:36:47 2021
+Alert reported time: Sun Oct 17 07:36:45 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6013.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6294.000000
+Right : -2     | -1.000000
+Top : 2        | 6086.000000
+Bottom : 8     | 6010.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 14
+Logged Time: Sun Oct 17 07:36:47 2021
+Alert reported time: Sun Oct 17 07:36:47 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+4              | 6106.000000 | (1,1)
+
+Adjacent Nodes | Height(m) 
+Left : 3       | 6040.000000
+Right : 5      | 6326.000000
+Top : 1        | 6345.000000
+Bottom : 7     | 6113.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 15
+Logged Time: Sun Oct 17 07:36:49 2021
+Alert reported time: Sun Oct 17 07:36:47 2021
+Match Type: True
+
+Reporting Node | Height(m)   | Coord
+8              | 6228.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6056.000000
+Right : -2     | -1.000000
+Top : 5        | 6181.000000
+Bottom : 11    | 6146.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:47 2021
+Satellite altimeter reporting height(m): 6334.528320
+Satellite altimeter reporting coordinates(m): (2,2)
+
+================================================================================
+
+Iteration: 15
+Logged Time: Sun Oct 17 07:36:49 2021
+Alert reported time: Sun Oct 17 07:36:47 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6206.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6298.000000
+Top : 0        | 6129.000000
+Bottom : 6     | 5799.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 15
+Logged Time: Sun Oct 17 07:36:49 2021
+Alert reported time: Sun Oct 17 07:36:47 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+9              | 6060.000000 | (3,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 10     | 6030.000000
+Top : 6        | 6123.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 15
+Logged Time: Sun Oct 17 07:36:49 2021
+Alert reported time: Sun Oct 17 07:36:47 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6104.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6277.000000
+Right : 8      | 6010.000000
+Top : 4        | 6294.000000
+Bottom : 10    | 6018.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 15
+Logged Time: Sun Oct 17 07:36:49 2021
+Alert reported time: Sun Oct 17 07:36:49 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6107.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6080.000000
+Right : 11     | 6071.000000
+Top : 7        | 6115.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 16
+Logged Time: Sun Oct 17 07:36:51 2021
+Alert reported time: Sun Oct 17 07:36:49 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+2              | 6079.000000 | (0,2)
+
+Adjacent Nodes | Height(m) 
+Left : 1       | 6108.000000
+Right : -2     | -1.000000
+Top : -2       | -1.000000
+Bottom : 5     | 6099.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 16
+Logged Time: Sun Oct 17 07:36:51 2021
+Alert reported time: Sun Oct 17 07:36:51 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6258.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6281.000000
+Right : -2     | -1.000000
+Top : 5        | 6272.000000
+Bottom : 11    | 6196.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 17
+Logged Time: Sun Oct 17 07:36:53 2021
+Alert reported time: Sun Oct 17 07:36:51 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6066.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6153.000000
+Top : 0        | 6125.000000
+Bottom : 6     | 6202.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 17
+Logged Time: Sun Oct 17 07:36:53 2021
+Alert reported time: Sun Oct 17 07:36:51 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+6              | 6050.000000 | (2,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 7      | 6024.000000
+Top : 3        | 5829.000000
+Bottom : 9     | 6010.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 17
+Logged Time: Sun Oct 17 07:36:53 2021
+Alert reported time: Sun Oct 17 07:36:51 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6142.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6210.000000
+Right : -2     | -1.000000
+Top : 2        | 6061.000000
+Bottom : 8     | 6032.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 17
+Logged Time: Sun Oct 17 07:36:53 2021
+Alert reported time: Sun Oct 17 07:36:53 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+0              | 6194.000000 | (0,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 1      | 6108.000000
+Top : -2       | -1.000000
+Bottom : 3     | 6216.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:40 2021
+Satellite altimeter reporting height(m): 6330.720703
+Satellite altimeter reporting coordinates(m): (3,1)
+
+================================================================================
+
+Iteration: 18
+Logged Time: Sun Oct 17 07:36:55 2021
+Alert reported time: Sun Oct 17 07:36:53 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6091.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6025.000000
+Top : 0        | 6172.000000
+Bottom : 6     | 6235.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 18
+Logged Time: Sun Oct 17 07:36:55 2021
+Alert reported time: Sun Oct 17 07:36:53 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6058.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6115.000000
+Right : -2     | -1.000000
+Top : 5        | 6099.000000
+Bottom : 11    | 6071.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 18
+Logged Time: Sun Oct 17 07:36:55 2021
+Alert reported time: Sun Oct 17 07:36:53 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+2              | 6039.000000 | (0,2)
+
+Adjacent Nodes | Height(m) 
+Left : 1       | 5975.000000
+Right : -2     | -1.000000
+Top : -2       | -1.000000
+Bottom : 5     | 5963.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 18
+Logged Time: Sun Oct 17 07:36:55 2021
+Alert reported time: Sun Oct 17 07:36:53 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+10             | 6154.000000 | (3,1)
+
+Adjacent Nodes | Height(m) 
+Left : 9       | 6060.000000
+Right : 11     | 5908.000000
+Top : 7        | 6104.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 18
+Logged Time: Sun Oct 17 07:36:55 2021
+Alert reported time: Sun Oct 17 07:36:53 2021
+Match Type: True
+
+Reporting Node | Height(m)   | Coord
+5              | 6121.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6106.000000
+Right : -2     | -1.000000
+Top : 2        | 6098.000000
+Bottom : 8     | 6228.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:53 2021
+Satellite altimeter reporting height(m): 6159.942383
+Satellite altimeter reporting coordinates(m): (1,2)
+
+================================================================================
+
+Iteration: 18
+Logged Time: Sun Oct 17 07:36:55 2021
+Alert reported time: Sun Oct 17 07:36:55 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+9              | 6068.000000 | (3,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 10     | 6115.000000
+Top : 6        | 6148.000000
+Bottom : -2    | -1.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 19
+Logged Time: Sun Oct 17 07:36:57 2021
+Alert reported time: Sun Oct 17 07:36:55 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+2              | 6052.000000 | (0,2)
+
+Adjacent Nodes | Height(m) 
+Left : 1       | 6106.000000
+Right : -2     | -1.000000
+Top : -2       | -1.000000
+Bottom : 5     | 6073.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 19
+Logged Time: Sun Oct 17 07:36:57 2021
+Alert reported time: Sun Oct 17 07:36:55 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6043.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 5863.000000
+Right : 8      | 6335.000000
+Top : 4        | 6009.000000
+Bottom : 10    | 6107.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 19
+Logged Time: Sun Oct 17 07:36:57 2021
+Alert reported time: Sun Oct 17 07:36:55 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6265.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6236.000000
+Right : 2      | 6086.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6294.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 19
+Logged Time: Sun Oct 17 07:36:57 2021
+Alert reported time: Sun Oct 17 07:36:57 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6209.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6024.000000
+Top : 0        | 6183.000000
+Bottom : 6     | 6123.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 20
+Logged Time: Sun Oct 17 07:36:59 2021
+Alert reported time: Sun Oct 17 07:36:57 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6186.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6050.000000
+Right : 8      | 6258.000000
+Top : 4        | 6000.000000
+Bottom : 10    | 6268.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 20
+Logged Time: Sun Oct 17 07:36:59 2021
+Alert reported time: Sun Oct 17 07:36:57 2021
+Match Type: True
+
+Reporting Node | Height(m)   | Coord
+6              | 6111.000000 | (2,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 7      | 6113.000000
+Top : 3        | 6040.000000
+Bottom : 9     | 6031.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:57 2021
+Satellite altimeter reporting height(m): 6125.725098
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 20
+Logged Time: Sun Oct 17 07:36:59 2021
+Alert reported time: Sun Oct 17 07:36:57 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6010.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 6000.000000
+Right : -2     | -1.000000
+Top : 2        | 6083.000000
+Bottom : 8     | 6258.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 20
+Logged Time: Sun Oct 17 07:36:59 2021
+Alert reported time: Sun Oct 17 07:36:59 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+4              | 6077.000000 | (1,1)
+
+Adjacent Nodes | Height(m) 
+Left : 3       | 6365.000000
+Right : 5      | 6013.000000
+Top : 1        | 5967.000000
+Bottom : 7     | 6162.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 21
+Logged Time: Sun Oct 17 07:37:01 2021
+Alert reported time: Sun Oct 17 07:36:59 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6198.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6155.000000
+Top : 0        | 6241.000000
+Bottom : 6     | 6324.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 21
+Logged Time: Sun Oct 17 07:37:01 2021
+Alert reported time: Sun Oct 17 07:36:59 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6011.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6104.000000
+Right : -2     | -1.000000
+Top : 5        | 5963.000000
+Bottom : 11    | 5908.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 21
+Logged Time: Sun Oct 17 07:37:01 2021
+Alert reported time: Sun Oct 17 07:36:59 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+7              | 6208.000000 | (2,1)
+
+Adjacent Nodes | Height(m) 
+Left : 6       | 6189.000000
+Right : 8      | 6058.000000
+Top : 4        | 5976.000000
+Bottom : 10    | 6154.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 21
+Logged Time: Sun Oct 17 07:37:01 2021
+Alert reported time: Sun Oct 17 07:36:59 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6048.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6005.000000
+Right : 2      | 6061.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6210.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 21
+Logged Time: Sun Oct 17 07:37:01 2021
+Alert reported time: Sun Oct 17 07:36:59 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6073.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 5976.000000
+Right : -2     | -1.000000
+Top : 2        | 6039.000000
+Bottom : 8     | 6058.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 21
+Logged Time: Sun Oct 17 07:37:01 2021
+Alert reported time: Sun Oct 17 07:37:01 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+3              | 6255.000000 | (1,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 4      | 6294.000000
+Top : 0        | 6236.000000
+Bottom : 6     | 6277.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 22
+Logged Time: Sun Oct 17 07:37:03 2021
+Alert reported time: Sun Oct 17 07:37:01 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+6              | 6119.000000 | (2,0)
+
+Adjacent Nodes | Height(m) 
+Left : -2      | -1.000000
+Right : 7      | 6115.000000
+Top : 3        | 6216.000000
+Bottom : 9     | 6080.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 22
+Logged Time: Sun Oct 17 07:37:03 2021
+Alert reported time: Sun Oct 17 07:37:01 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6071.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 5984.000000
+Right : 2      | 6098.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6106.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 22
+Logged Time: Sun Oct 17 07:37:03 2021
+Alert reported time: Sun Oct 17 07:37:03 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+4              | 6108.000000 | (1,1)
+
+Adjacent Nodes | Height(m) 
+Left : 3       | 6077.000000
+Right : 5      | 6073.000000
+Top : 1        | 6106.000000
+Bottom : 7     | 6269.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 23
+Logged Time: Sun Oct 17 07:37:05 2021
+Alert reported time: Sun Oct 17 07:37:03 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6239.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6166.000000
+Right : -2     | -1.000000
+Top : 5        | 6142.000000
+Bottom : 11    | 5992.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 23
+Logged Time: Sun Oct 17 07:37:05 2021
+Alert reported time: Sun Oct 17 07:37:03 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+1              | 6063.000000 | (0,1)
+
+Adjacent Nodes | Height(m) 
+Left : 0       | 6065.000000
+Right : 2      | 6079.000000
+Top : -2       | -1.000000
+Bottom : 4     | 6009.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 23
+Logged Time: Sun Oct 17 07:37:05 2021
+Alert reported time: Sun Oct 17 07:37:03 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+5              | 6086.000000 | (1,2)
+
+Adjacent Nodes | Height(m) 
+Left : 4       | 5970.000000
+Right : -2     | -1.000000
+Top : 2        | 6052.000000
+Bottom : 8     | 6056.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Iteration: 23
+Logged Time: Sun Oct 17 07:37:05 2021
+Alert reported time: Sun Oct 17 07:37:05 2021
+Match Type: False
+
+Reporting Node | Height(m)   | Coord
+8              | 6182.000000 | (2,2)
+
+Adjacent Nodes | Height(m) 
+Left : 7       | 6122.000000
+Right : -2     | -1.000000
+Top : 5        | 6121.000000
+Bottom : 11    | 6130.000000
+
+Satellite altimeter reporting time: Sun Oct 17 07:36:55 2021
+Satellite altimeter reporting height(m): 6018.246094
+Satellite altimeter reporting coordinates(m): (2,0)
+
+================================================================================
+
+Total alerts: 89
+True alerts: 4
+False alerts: 85
