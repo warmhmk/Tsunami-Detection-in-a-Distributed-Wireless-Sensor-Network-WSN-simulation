@@ -7,6 +7,10 @@ This project simulates a tsunami detection system using a distributed wireless s
 ### 1. Altimeter
 The Altimeter is a POSIX thread created by the Base process. It continuously generates random coordinates and height values at specified intervals, simulating altimeter readings. These values are stored in a global circular buffer, ensuring efficient data management. Mutex locks are used to prevent race conditions during data writing and reading. The thread runs continuously until it receives a termination signal from the Base.
 
+![Altimeter Flow Chart](altimeter_flowchart.png)
+
+*Figure 1. Technical flow chart for Altimeter. The exit value determines the end of the loop and the interval determines when to generate the random values. Height generated is then checked with threshold and thread is put to sleep to simulate waiting. The loop is repeated.*
+
 ### 2. Base
 The Base process acts as the central controller, managing both the Altimeter and the Tsunameter nodes. It receives data from the Tsunameters, compares it with the Altimeter readings, and logs the results. The Base communicates with the Tsunameters using MPI and controls the overall execution of the simulation. It also handles user input for terminating the simulation and sends termination signals to all nodes.
 
